@@ -6,7 +6,7 @@
 
 ## 🎥 Project Highlight (Brag Video)
 
-[![Brag Video Poster](brag-output/brag.jpg)](brag-output/brag.mp4)
+[![Brag Video Poster]([https://github.com/SUSH9391/Core_AI_Projects/blob/main/brag-output/composition/brag-output/brag.jpg](brag-output/brag.mp4))
 
 *From digit recognition to transfer learning: watch core ML techniques achieve 99% accuracy in seconds.*
 
