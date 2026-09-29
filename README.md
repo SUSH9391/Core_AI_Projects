@@ -6,8 +6,10 @@
 
 ## 🎥 Project Highlight (Brag Video)
 
+[![Brag Video](brag-output/composition/brag-output/brag.jpg)](brag-output/composition/brag-output/brag.mp4)
 <video src="brag-output/composition/brag-output/brag.mp4" poster="brag-output/composition/brag-output/brag.jpg" controls="controls" style="max-width: 100%;">
 </video>
+
 
 *From digit recognition to transfer learning: watch core ML techniques achieve 99% accuracy in seconds.*
 
